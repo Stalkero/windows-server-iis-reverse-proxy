@@ -10,6 +10,7 @@ And on the right menu bar find `View server variables`
 
 Create two variables:
 -`HTTP_ACCEPT_ENCODING`
+
 -`HTTP_X_ORIGINAL_ACCEPT_ENCODING`
 
 ## Edit your reverse proxy inbound role
